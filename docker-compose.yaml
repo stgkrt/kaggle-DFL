@@ -1,0 +1,17 @@
+services:
+  app:
+    build: .
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              device_ids: ['0']
+              capabilities: [gpu]
+    shm_size: '8gb'
+    volumes:
+      - ./:/workdir
+    working_dir: /workdir
+    ports:
+      - "8888:8888"
+    tty: true
