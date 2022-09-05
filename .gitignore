@@ -29,6 +29,7 @@ lightning_logs/*
 work/notebooks/data/*
 work/notebooks/dataset/*
 work/yolov5/*
+work/yolov5
 
 #datasets
 work/datasets/*
@@ -152,4 +153,4 @@ upload_models/
 features/
 candidates/
 notebook/Untitled*
-work/yolov5
+
