@@ -37,3 +37,5 @@ ls -d * | xargs -n1 -i aws s3 cp {} s3://tested-s3-strage/ex28/part2/{}
 open root folder of docker image
 execute run.sh by "/bin/bash ./run.sh" for starting jupyter
 connect jupyter to "http://localhost:8888/?token=kaggle"
+# kaggle-DFL
+# kaggle-DFL
