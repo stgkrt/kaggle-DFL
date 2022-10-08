@@ -1,0 +1,24 @@
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 0.1188,  Valid loss 0.0990.
+Accuracy 0.614368. elapsed time:153.2
+Model improved in epoch 1.
+Epoch 2: Train loss 0.1099,  Valid loss 0.0959.
+Accuracy 0.614368. elapsed time:151.8
+Model improved in epoch 2.
+Epoch 3: Train loss 0.1065,  Valid loss 0.0952.
+Accuracy 0.614368. elapsed time:154.0
+Model improved in epoch 3.
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 0.1188,  Valid loss 0.0990.
+Accuracy 0.614368. elapsed time:152.6
+Model improved in epoch 1.
+Epoch 2: Train loss 0.1099,  Valid loss 0.0959.
+Accuracy 0.614368. elapsed time:153.6
+Epoch 3: Train loss 0.1065,  Valid loss 0.0952.
+Accuracy 0.614368. elapsed time:152.5
+Epoch 4: Train loss 0.1039,  Valid loss 0.0946.
+Accuracy 0.614368. elapsed time:153.1

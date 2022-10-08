@@ -1,0 +1,70 @@
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 0.2510,  Valid loss 0.1413.
+Accuracy 0.608046. elapsed time:169.3
+Model is improved.
+Epoch 2: Train loss 0.0700,  Valid loss 0.2024.
+Accuracy 0.601149. elapsed time:338.0
+Epoch 3: Train loss 0.0156,  Valid loss 0.2422.
+Accuracy 0.566667. elapsed time:506.9
+Epoch 4: Train loss 0.0115,  Valid loss 0.2277.
+Accuracy 0.610345. elapsed time:675.9
+Model is improved.
+Epoch 5: Train loss 0.0073,  Valid loss 0.2156.
+Accuracy 0.588506. elapsed time:844.4
+Epoch 6: Train loss 0.0046,  Valid loss 0.2312.
+Accuracy 0.596552. elapsed time:1013.3
+Epoch 7: Train loss 0.0047,  Valid loss 0.2174.
+Accuracy 0.603448. elapsed time:1181.8
+Early stopping. Model is not improved in 5 epochs
+<class '__main__.CFG'>
+<class '__main__.CFG'>
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+<class '__main__.CFG'>
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 1.6238,  Valid loss 1.5801.
+Accuracy 0.005747. elapsed time:172.7
+Model is improved.
+Epoch 2: Train loss 0.8622,  Valid loss 1.0577.
+Accuracy 0.439080. elapsed time:346.0
+Model is improved.
+Epoch 3: Train loss 0.3116,  Valid loss 0.6887.
+Accuracy 0.513218. elapsed time:519.4
+Model is improved.
+Epoch 4: Train loss 0.1800,  Valid loss 0.4914.
+Accuracy 0.531609. elapsed time:693.4
+Model is improved.
+Epoch 5: Train loss 0.1426,  Valid loss 0.3892.
+Accuracy 0.542529. elapsed time:866.7
+Model is improved.
+Epoch 6: Train loss 0.1211,  Valid loss 0.3328.
+Accuracy 0.554023. elapsed time:1039.9
+Model is improved.
+Epoch 7: Train loss 0.1053,  Valid loss 0.2988.
+Accuracy 0.558621. elapsed time:1212.7
+Model is improved.
+Epoch 8: Train loss 0.0938,  Valid loss 0.2766.
+Accuracy 0.559195. elapsed time:1386.1
+Model is improved.
+Epoch 9: Train loss 0.0852,  Valid loss 0.2631.
+Accuracy 0.561494. elapsed time:1560.1
+Model is improved.
+Epoch 10: Train loss 0.0775,  Valid loss 0.2562.
+Accuracy 0.558621. elapsed time:1733.5
+Epoch 11: Train loss 0.0702,  Valid loss 0.2542.
+Accuracy 0.555172. elapsed time:1906.0
+Epoch 12: Train loss 0.0628,  Valid loss 0.2558.
+Accuracy 0.550575. elapsed time:2078.9
+Epoch 13: Train loss 0.0553,  Valid loss 0.2603.
+Accuracy 0.549425. elapsed time:2251.4
+Epoch 14: Train loss 0.0476,  Valid loss 0.2671.
+Accuracy 0.545402. elapsed time:2423.9
+Early stopping. Model is not improved in 5 epochs

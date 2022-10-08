@@ -1,0 +1,231 @@
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 1.4174,  Valid loss 1.2526.
+Accuracy 0.371264. elapsed time:775.0
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 2: Train loss 0.3908,  Valid loss 0.4851.
+Accuracy 0.431609. elapsed time:1553.1
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 3: Train loss 0.1572,  Valid loss 0.2494.
+Accuracy 0.435057. elapsed time:2334.1
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 4: Train loss 0.1172,  Valid loss 0.1649.
+Accuracy 0.482759. elapsed time:3114.0
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 5: Train loss 0.0987,  Valid loss 0.1315.
+Accuracy 0.522414. elapsed time:3894.0
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 6: Train loss 0.0901,  Valid loss 0.1229.
+Accuracy 0.543678. elapsed time:4672.3
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 7: Train loss 0.0797,  Valid loss 0.1277.
+Accuracy 0.527011. elapsed time:5449.5
+Epoch 8: Train loss 0.0622,  Valid loss 0.1494.
+Accuracy 0.497701. elapsed time:6225.1
+Epoch 9: Train loss 0.0362,  Valid loss 0.2057.
+Accuracy 0.474138. elapsed time:7000.2
+Epoch 10: Train loss 0.0130,  Valid loss 0.3236.
+Accuracy 0.435632. elapsed time:7778.3
+Epoch 11: Train loss 0.0086,  Valid loss 0.3247.
+Accuracy 0.435632. elapsed time:8558.0
+Early stopping. Model is not improved in 5 epochs
+EXP NAME = eff_b7_ap
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 1.7303,  Valid loss 1.7479.
+Accuracy 0.000000. elapsed time:770.2
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 2: Train loss 1.6535,  Valid loss 1.7070.
+Accuracy 0.000575. elapsed time:1539.9
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 3: Train loss 1.5583,  Valid loss 1.6531.
+Accuracy 0.012069. elapsed time:2314.5
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 1.1122,  Valid loss 0.7674.
+Accuracy 0.583333. elapsed time:775.5
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 2: Train loss 0.2039,  Valid loss 0.3065.
+Accuracy 0.431609. elapsed time:1551.3
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+EXP NAME = eff_b7_ap
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+EXP NAME = eff_b7_ap
+EXP NAME = eff_b7_ap
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 0.1646,  Valid loss 0.2660.
+Epoch 1: Train loss 0.1646,  Valid loss 0.2660.
+Epoch 1: Train loss 0.1646,  Valid loss 0.2660.
+Accuracy 0.452299. elapsed time:772.8
+Accuracy 0.452299. elapsed time:772.8
+Accuracy 0.452299. elapsed time:772.8
+Model is improved.
+Model is improved.
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+EXP NAME = eff_b7_ap
+Model = tf_efficientnet_b7_ap, (height, width) = (600, 600)
+train_videos ['1606b0e6_0' '1606b0e6_1' '35bd9041_0' '35bd9041_1' '3c993bd2_0'
+ '3c993bd2_1' '407c5a9e_1' '4ffd5986_0' '9a97dae4_1' 'cfbe2e94_0']
+valid_videos ['cfbe2e94_1' 'ecf251d4_0']
+Epoch 1: Train loss 0.1646,  Valid loss 0.2660.
+Accuracy 0.452299. elapsed time:773.7
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 2: Train loss 0.1241,  Valid loss 0.2432.
+Accuracy 0.500000. elapsed time:1553.7
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 3: Train loss 0.1028,  Valid loss 0.2324.
+Accuracy 0.521839. elapsed time:2330.6
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 4: Train loss 0.0864,  Valid loss 0.2279.
+Accuracy 0.532184. elapsed time:3090.2
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 5: Train loss 0.0727,  Valid loss 0.2274.
+Accuracy 0.541379. elapsed time:3872.2
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 6: Train loss 0.0606,  Valid loss 0.2298.
+Accuracy 0.543103. elapsed time:4643.8
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 7: Train loss 0.0497,  Valid loss 0.2341.
+Accuracy 0.543678. elapsed time:5419.2
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 8: Train loss 0.0401,  Valid loss 0.2395.
+Accuracy 0.545977. elapsed time:6192.3
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 9: Train loss 0.0316,  Valid loss 0.2460.
+Accuracy 0.548276. elapsed time:6970.8
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 10: Train loss 0.0243,  Valid loss 0.2535.
+Accuracy 0.547701. elapsed time:7745.3
+Epoch 11: Train loss 0.0181,  Valid loss 0.2621.
+Accuracy 0.546552. elapsed time:8515.2
+Epoch 12: Train loss 0.0132,  Valid loss 0.2719.
+Accuracy 0.548851. elapsed time:9283.9
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 13: Train loss 0.0093,  Valid loss 0.2830.
+Accuracy 0.548851. elapsed time:10054.8
+Epoch 14: Train loss 0.0064,  Valid loss 0.2957.
+Accuracy 0.548276. elapsed time:10824.6
+Epoch 15: Train loss 0.0043,  Valid loss 0.3099.
+Accuracy 0.548276. elapsed time:11595.2
+Epoch 16: Train loss 0.0027,  Valid loss 0.3258.
+Accuracy 0.551724. elapsed time:12365.6
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 17: Train loss 0.0017,  Valid loss 0.3433.
+Accuracy 0.555172. elapsed time:13135.2
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 18: Train loss 0.0010,  Valid loss 0.3628.
+Accuracy 0.556322. elapsed time:13905.1
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 19: Train loss 0.0006,  Valid loss 0.3754.
+Accuracy 0.558621. elapsed time:14674.9
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 20: Train loss 0.0009,  Valid loss 0.3799.
+Accuracy 0.558046. elapsed time:15444.7
+Epoch 21: Train loss 0.0008,  Valid loss 0.3897.
+Accuracy 0.563218. elapsed time:16215.6
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 22: Train loss 0.0005,  Valid loss 0.3918.
+Accuracy 0.561494. elapsed time:16989.2
+Epoch 23: Train loss 0.0005,  Valid loss 0.3869.
+Accuracy 0.562069. elapsed time:17762.2
+Epoch 24: Train loss 0.0005,  Valid loss 0.4035.
+Accuracy 0.569540. elapsed time:18534.3
+Model is improved.
+/workdir/work/output/eff_b7_ap/tf_efficientnet_b7_ap.pth is saved.
+Epoch 25: Train loss 0.0004,  Valid loss 0.4107.
+Accuracy 0.564368. elapsed time:19306.2
+Epoch 26: Train loss 0.0004,  Valid loss 0.3938.
+Accuracy 0.561494. elapsed time:20077.4
+Epoch 27: Train loss 0.0003,  Valid loss 0.4096.
+Accuracy 0.568966. elapsed time:20847.0
+Epoch 28: Train loss 0.0003,  Valid loss 0.4237.
+Accuracy 0.564943. elapsed time:21617.9
+Epoch 29: Train loss 0.0003,  Valid loss 0.4096.
+Accuracy 0.563793. elapsed time:22388.0
+Early stopping. Model is not improved in 5 epochs
