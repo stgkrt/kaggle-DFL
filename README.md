@@ -1,5 +1,5 @@
 # kaggle DFL competition
-Competition URL[https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout]
+[Competition URL](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout)
 
 # how to use
 ```
